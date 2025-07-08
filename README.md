@@ -1,0 +1,1 @@
+I always find myself wondering where all my money went or how I managed to spend so much, then I created this project. I created a simple expense tracker to help manage my own finances, and I decided to share a step-by-step tutorial with the developer community. Take control of your spending!
